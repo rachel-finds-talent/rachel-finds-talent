@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachel-finds-talent
 - 👀 I’m interested in introducing engineers to opportunities
 - 🌱 I’m currently learning all about blockchain technologies
-- 💞️ I’m looking to collaborate on web 3
+- 💞️ I’m looking to collaborate on web 5
 - 📫 How to reach me @so_racheliffic on twitter 
 
 <!---
